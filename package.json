@@ -1,5 +1,5 @@
 {
-  "homepage": "https://s1f102200547.github.io/For-immigre",
+  "homepage": "https://s1f102200547.github.io",
   "name": "green",
   "version": "0.1.0",
   "private": true,
@@ -28,11 +28,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "rm": "rm -rf docs",
-    "mv": "mv build docs",
-    "git": "git add . && git commit -m 'new deploy' && git push origin master",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy":"gh-pages -b main -d build"
   },
   "eslintConfig": {
     "extends": [
