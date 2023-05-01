@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/For-immigre/static/css/main.a85bb21f.css",
+    "main.js": "/For-immigre/static/js/main.f143d155.js",
+    "static/js/787.e86a563f.chunk.js": "/For-immigre/static/js/787.e86a563f.chunk.js",
+    "static/media/wood.png": "/For-immigre/static/media/wood.398e48df13f389e6b676.png",
+    "static/media/green.png": "/For-immigre/static/media/green.244b98b6d1056c7b18ed.png",
+    "index.html": "/For-immigre/index.html",
+    "main.a85bb21f.css.map": "/For-immigre/static/css/main.a85bb21f.css.map",
+    "main.f143d155.js.map": "/For-immigre/static/js/main.f143d155.js.map",
+    "787.e86a563f.chunk.js.map": "/For-immigre/static/js/787.e86a563f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85bb21f.css",
+    "static/js/main.f143d155.js"
+  ]
+}
